@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "273984987549",
+    "project_id": "moto-flutter",
+    "storage_bucket": "moto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273984987549:android:16c6b643cf9969597d4f74",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rwKQ0nti8s96rVFPaOzmuVDBOiL_nHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273984987549:android:b3e85fb698f658db7d4f74",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rwKQ0nti8s96rVFPaOzmuVDBOiL_nHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273984987549:android:68306019a79037d97d4f74",
+        "android_client_info": {
+          "package_name": "com.rockstonestudios.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rwKQ0nti8s96rVFPaOzmuVDBOiL_nHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
