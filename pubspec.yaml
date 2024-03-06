@@ -47,10 +47,12 @@ dependencies:
   provider: 
   flutter_polyline_points: 
   loading_animation_widget: 
-  flutter_geofire: 
+  flutter_geofire: ^2.0.3 
   restart_app: 
-  url_launcher: 
-  
+  url_launcher:
+  location: ^5.0.0
+  geocoding: ^2.2.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
